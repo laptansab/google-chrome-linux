@@ -4,9 +4,9 @@
   box-sizing: border-box;
 }
 
-div{
-    width: 500px;
-    height: 400px;
-    background-color: blue;
+div {
+  width: 500px;
+  height: 400px;
+  background-color: blue;
   color: blue;
 }
